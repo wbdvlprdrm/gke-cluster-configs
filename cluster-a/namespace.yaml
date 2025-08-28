@@ -4,3 +4,4 @@ metadata:
   name: learning-namespace
   labels:
     env: dev-a
+    purpose: learning
